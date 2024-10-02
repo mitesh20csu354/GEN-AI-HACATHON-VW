@@ -1,0 +1,35 @@
+Car Brand,Car Model,Battery Maker,Battery Type,Capacity (kWh),Range (km),Charging Time (0-80%)
+Tesla,Model S,Tesla,Lithium-ion,100,652,25 minutes (Supercharger)
+Tesla,Model 3,Tesla,Lithium-ion,60,402,30 minutes (Supercharger)
+Tesla,Model Y,Tesla,Lithium-ion,75,330,30 minutes (Supercharger)
+Tesla,Model X,Tesla,Lithium-ion,100,560,25 minutes (Supercharger)
+Ford,Mustang Mach-E,LG Chem,Lithium-ion,75,480,35 minutes (DC fast charging)
+Chevrolet,Bolt EV,LG Chem,Lithium-ion,66,416,45 minutes (DC fast charging)
+Nissan,Leaf,LG Chem,Lithium-ion,62,386,40 minutes (DC fast charging)
+Hyundai,Kona Electric,LG Chem,Lithium-ion,64,415,54 minutes (DC fast charging)
+Kia,EV6,LG Chem,Lithium-ion,77.4,528,18 minutes (DC fast charging)
+Audi,e-tron,LG Chem,Lithium-ion,95,417,30 minutes (DC fast charging)
+BMW,iX,BMW,Lithium-ion,111.5,630,35 minutes (DC fast charging)
+Mercedes-Benz,EQC,Mercedes-Benz,Lithium-ion,80,417,30 minutes (DC fast charging)
+Jaguar,I-PACE,LG Chem,Lithium-ion,90,470,40 minutes (DC fast charging)
+Porsche,Taycan,Porsche,Lithium-ion,93.4,463,22.5 minutes (DC fast charging)
+Toyota,Prius,Toyota,Nickel-metal hydride (NiMH),1.3,50 (electric only),Not applicable
+Honda,Accord Hybrid,Honda,Lithium-ion,1.3,47 (electric only),Not applicable
+Hyundai,Sonata Hybrid,Hyundai,Lithium-ion,1.6,41 (electric only),Not applicable
+Kia,Niro Hybrid,Kia,Lithium-ion,1.6,49 (electric only),Not applicable
+Lexus,ES Hybrid,Lexus,Lithium-ion,1.6,44 (electric only),Not applicable
+Toyota,Camry,Toyota,Lithium-ion,1.8,43 (electric only),Not applicable
+Honda,Civic,Honda,Lithium-ion,1.5,40 (electric only),Not applicable
+Ford,F-150,Ford,Lithium-ion,1.4,30 (electric only),Not applicable
+Chevrolet,Silverado,Chevrolet,Lithium-ion,1.4,30 (electric only),Not applicable
+Ram,1500,Ram,Lithium-ion,1.4,30 (electric only),Not applicable
+Honda,CR-V,Honda,Lithium-ion,1.5,35 (electric only),Not applicable
+Toyota,RAV4,Toyota,Lithium-ion,1.5,35 (electric only),Not applicable
+Ford,Escape,Ford,Lithium-ion,1.3,30 (electric only),Not applicable
+Chevrolet,Equinox,Chevrolet,Lithium-ion,1.3,30 (electric only),Not applicable
+Jeep,Grand Cherokee,Jeep,Lithium-ion,1.3,30 (electric only),Not applicable
+Subaru,Outback,Subaru,Lithium-ion,1.3,30 (electric only),Not applicable
+Toyota,Highlander,Toyota,Lithium-ion,1.6,35 (electric only),Not applicable
+Honda,Pilot,Honda,Lithium-ion,1.6,35 (electric only),Not applicable
+Ford,Explorer,Ford,Lithium-ion,1.6,35 (electric only),Not applicable
+Chevrolet,Traverse,Chevrolet,Lithium-ion,1.6,35 (electric only),Not applicable
